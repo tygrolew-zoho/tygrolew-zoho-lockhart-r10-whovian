@@ -1,0 +1,7 @@
+tajne.txt
+vendor/
+**/nbproject
+**/vendor
+composer.phar
+**/*~
+**/*.backup
