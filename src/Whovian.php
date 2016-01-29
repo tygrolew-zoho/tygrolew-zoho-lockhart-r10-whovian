@@ -42,7 +42,7 @@ class Whovian
             );
         }
         
-        return "Zgadzam się.";
+        return "Też tak uważam.";
     }
 }
 ?>
